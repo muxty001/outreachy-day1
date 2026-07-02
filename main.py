@@ -1,4 +1,4 @@
-from user import get_user_status
+from users import get_user_status
 from calculator import safe_divide
 
 def run_application() -> None:

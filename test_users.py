@@ -1,4 +1,4 @@
-from user import get_user_status
+from users import get_user_status
 
 def test_active_user():
     user = {"name": "Alice", "is_active": True}
